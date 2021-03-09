@@ -1,0 +1,26 @@
+img {
+    height: auto;
+    width: 100px;
+}
+.container{
+    display: flex;
+}
+
+.clase{
+    text-align: center;
+    background-color: green;
+}
+
+.dia-clase{
+    background-color: green;
+    border-bottom: 3px solid black;
+}
+
+td{
+    background-color: gray;
+}
+
+table, td, thead {
+    margin: 0px;
+    border: 1px solid black;
+}
